@@ -33,9 +33,11 @@
 - 도커 설치하기
 
 `sudo apt install --yes docker-ce`
-<br>  
+
 - 참고 : [도커 개발환경 세팅 및 배포 실습](https://roseline124.github.io/kuberdocker/2019/07/17/docker-study02.html)
-<br>  
+
+<br>
+
 - sudo 명령어 없이 도커 사용을 위하여 사용자를 도커 그룹에 추가
 
 `sudo usermod -aG docker $USER`
