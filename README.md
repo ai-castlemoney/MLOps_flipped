@@ -14,11 +14,11 @@
 
 - 위 내용은 아래와 같은 결과 [[도커 다운을 위해 필요한 패키지 설치](https://roseline124.github.io/kuberdocker/2019/07/17/docker-study02.html)]
 
-    >sudo apt install --yes apt-transport-https
-    >sudo apt install --yes ca-certificates
-    >sudo apt install --yes curl
-    >sudo apt install --yes gnupg2
-    >sudo apt install --yes software-properties-common
+    >sudo apt install --yes apt-transport-https  
+    >sudo apt install --yes ca-certificates  
+    >sudo apt install --yes curl  
+    >sudo apt install --yes gnupg2  
+    >sudo apt install --yes software-properties-common  
 
 - curl 명령어로 도커 다운받기
 
@@ -33,9 +33,9 @@
 - 도커 설치하기
 
 `sudo apt install --yes docker-ce`
-<br>
+<br>  
 - 참고 : [도커 개발환경 세팅 및 배포 실습](https://roseline124.github.io/kuberdocker/2019/07/17/docker-study02.html)
-<br>
+<br>  
 - sudo 명령어 없이 도커 사용을 위하여 사용자를 도커 그룹에 추가
 
 `sudo usermod -aG docker $USER`
