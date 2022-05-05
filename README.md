@@ -2,7 +2,6 @@
 ## 도커 설치 (VM과 SSH로 연결한 콘솔에서 실행)
 
 - [apt(Advance Packging Tools)](https://tttap.tistory.com/130) linux packages update
-
 - update - 설치 가능한 패키지 리스트를 최신화
 - upgrade - 실제 업데이트
 
